@@ -17,6 +17,9 @@
 .banner--dark-blue {
   background: #053C63;
 }
+.banner--light-blue {
+  background: #A5DAE3;
+}
 .banner__logo {
   width: 50px;
   position: absolute;
@@ -26,4 +29,31 @@
 
 .banner__title {
   text-transform: uppercase;
+  color: white;
+}
+
+.banner__title--big {
+  font-size: 58px;
+  line-height: 48px;
+}
+.banner__title--medium {
+  font-size: 39px;
+  line-height: 35px;
+}
+
+.banner__logo_container {
+  margin-top: 10px;
+}
+
+.banner__intel { 
+  width: 70px;
+  display: inline-block;
+  vertical-align: middle;
+  margin-left: -15px;
+}
+
+.banner__windows {
+  width: 110px;
+  display: inline-block;
+  vertical-align: middle;
 }
