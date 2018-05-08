@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,700');
+* {
+  margin: 0;
+  padding: 0;
+  font-family: 'Roboto', sans-serif;
+}
+.banner {
+  display: block;
+  position: relative;
+  box-sizing: border-box;
+}
+.banner--300_250 {
+  width: 300px;
+  height: 250px;
+  padding: 30px;
+}
+.banner--dark-blue {
+  background: #053C63;
+}
+.banner__logo {
+  width: 50px;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+
+.banner__title {
+  text-transform: uppercase;
+}
