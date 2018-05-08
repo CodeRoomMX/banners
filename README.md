@@ -11,5 +11,5 @@ Roboto Regular, Roboto Bold
 - Amarillo: #FECE2F
 
 ## Tamaños
-300x250
-300x50
+- 300x250
+- 300x50
